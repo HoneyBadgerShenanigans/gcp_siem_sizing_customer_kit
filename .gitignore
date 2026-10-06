@@ -1,0 +1,14 @@
+# Raw Cloud Asset Inventory exports
+cai_resource.json
+cai_iam-policy.json
+cai_org-policy.json
+cai_*.json
+
+# Generated SIEM sizing reports
+gcp_siem_sizing_inventory.json
+gcp_siem_sizing_inventory.md
+
+# Python & OS artifacts
+__pycache__/
+*.py[cod]
+.DS_Store
